@@ -1,0 +1,1251 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"for",
+				"fori	for i,v in ipairs()"
+			],
+			[
+				"isdown",
+				"love.mouse.isDown"
+			],
+			[
+				"fo",
+				"forp	for k,v in pairs()"
+			],
+			[
+				"sha",
+				"love.physics.newCircleShape"
+			],
+			[
+				"selectSt",
+				"selectStartPos"
+			],
+			[
+				"newsha",
+				"love.graphics.newShader"
+			],
+			[
+				"graphi",
+				"love.graphics.clear"
+			],
+			[
+				"newshape",
+				"love.physics.newPolygonShape"
+			],
+			[
+				"random",
+				"love.math.random"
+			],
+			[
+				"obj",
+				"object	."
+			],
+			[
+				"setprop",
+				"setProperty"
+			],
+			[
+				"script",
+				"script_file"
+			],
+			[
+				"scrip",
+				"script_file"
+			],
+			[
+				"read",
+				"love.filesystem.read"
+			],
+			[
+				"getd",
+				"love.timer.getDelta"
+			],
+			[
+				"selected",
+				"selectedAnchor2"
+			],
+			[
+				"multichoi",
+				"multichoice"
+			],
+			[
+				"newj",
+				"love.physics.newPrismaticJoint"
+			],
+			[
+				"neww",
+				"love.physics.newWorld"
+			],
+			[
+				"collis",
+				"collisionFunc"
+			],
+			[
+				"collision",
+				"collisionFunc"
+			],
+			[
+				"file",
+				"love.filesystem.lines"
+			],
+			[
+				"isd",
+				"love.mouse.isDown"
+			],
+			[
+				"math",
+				"math.atan	(x)"
+			],
+			[
+				"滑轮连接",
+				"滑轮连接顾名思义类似于定滑轮，可以改变物体的相对受力方向。"
+			],
+			[
+				"circ",
+				"love.graphics.circle"
+			],
+			[
+				"string",
+				"string.gsub	(s, pattern, repl [, n])"
+			],
+			[
+				"gets",
+				"love.filesystem.getSaveDirectory"
+			],
+			[
+				"getlinew",
+				"love.graphics.getLineWidth"
+			],
+			[
+				"setline",
+				"love.graphics.setLineWidth"
+			],
+			[
+				"contac",
+				"contactList"
+			],
+			[
+				"tab",
+				"table.insert	(table, [pos,] value)"
+			],
+			[
+				"new",
+				"love.graphics.newShader"
+			],
+			[
+				"material",
+				"materialType"
+			],
+			[
+				"getFix",
+				"getFixtureList"
+			],
+			[
+				"bullet",
+				"bulletPre"
+			],
+			[
+				"rollB",
+				"rollback"
+			],
+			[
+				"jump",
+				"jumpLeftKey"
+			],
+			[
+				"current",
+				"currentProject"
+			],
+			[
+				"curretn",
+				"currentScene"
+			],
+			[
+				"newfi",
+				"love.filesystem.newFile"
+			],
+			[
+				"create",
+				"love.filesystem.createDirectory"
+			],
+			[
+				"newf",
+				"love.filesystem.newFile"
+			],
+			[
+				"setPorp",
+				"setProperty"
+			],
+			[
+				"jump_",
+				"jump_right"
+			],
+			[
+				"talb",
+				"table.insert	(table, [pos,] value)"
+			],
+			[
+				"fro",
+				"fori	for i,v in ipairs()"
+			],
+			[
+				"set",
+				"love.mouse.setCursor"
+			],
+			[
+				"org",
+				"love.graphics.origin"
+			],
+			[
+				"clear",
+				"love.graphics.clear"
+			],
+			[
+				"coordi",
+				"CoordinateInfo"
+			],
+			[
+				"update",
+				"updateTodo"
+			],
+			[
+				"colli",
+				"collisionFunc"
+			],
+			[
+				"destroy",
+				"destoryOnHit"
+			],
+			[
+				"newfil",
+				"love.filesystem.newFileData"
+			],
+			[
+				"newim",
+				"love.image.newImageData"
+			],
+			[
+				"line",
+				"love.graphics.line"
+			],
+			[
+				"push",
+				"love.graphics.push"
+			],
+			[
+				"setme",
+				"love.physics.setMeter"
+			],
+			[
+				"ro",
+				"love.graphics.rotate"
+			],
+			[
+				"circle",
+				"love.physics.newCircleShape"
+			],
+			[
+				"shape",
+				"love.physics.newPolygonShape"
+			],
+			[
+				"frag",
+				"fragVerts"
+			],
+			[
+				"collisio",
+				"collisionType"
+			],
+			[
+				"begin",
+				"begin"
+			],
+			[
+				"contact",
+				"contactList"
+			],
+			[
+				"upper",
+				"UpperLimit"
+			],
+			[
+				"selecet",
+				"selectedAnchor"
+			],
+			[
+				"newgr",
+				"love.physics.newGearJoint"
+			],
+			[
+				"newF",
+				"love.graphics.newFont"
+			],
+			[
+				"setc",
+				"love.graphics.setColor"
+			],
+			[
+				"propTa",
+				"propTag"
+			],
+			[
+				"propTag",
+				"propTagIndex"
+			],
+			[
+				"proptag",
+				"propTagIndex"
+			],
+			[
+				"hover",
+				"hoverobject"
+			],
+			[
+				"brick",
+				"brickW"
+			],
+			[
+				"isdow",
+				"love.mouse.isDown"
+			],
+			[
+				"drag",
+				"dragTY"
+			],
+			[
+				"dragT",
+				"dragTX"
+			],
+			[
+				"changeR",
+				"changeNormal"
+			],
+			[
+				"isdonw",
+				"love.keyboard.isDown"
+			],
+			[
+				"selectg",
+				"selectToggle"
+			],
+			[
+				"selectT",
+				"selectToggle"
+			],
+			[
+				"commad",
+				"commadName"
+			],
+			[
+				"swithPo",
+				"switchPopIndex"
+			],
+			[
+				"switchPo",
+				"switchPopTag"
+			],
+			[
+				"ta",
+				"table.insert	(table, [pos,] value)"
+			],
+			[
+				"getWorld",
+				"getWorldData"
+			],
+			[
+				"isdo",
+				"love.keyboard.isDown"
+			],
+			[
+				"selectedV",
+				"selectedVerts"
+			],
+			[
+				"selecte",
+				"selectedVert"
+			],
+			[
+				"selectedver",
+				"selectedVerts"
+			],
+			[
+				"selectedv",
+				"selectedVert"
+			],
+			[
+				"isdon",
+				"love.keyboard.isDown"
+			],
+			[
+				"shpe",
+				"love.physics.newCircleShape"
+			],
+			[
+				"rect",
+				"love.graphics.rectangle"
+			],
+			[
+				"position",
+				"love.mouse.getPosition"
+			],
+			[
+				"print",
+				"love.graphics.print"
+			],
+			[
+				"joint",
+				"love.physics.newWeldJoint"
+			],
+			[
+				"load",
+				"loadstring	(string [, chunkname])"
+			],
+			[
+				"parent",
+				"parent_angle"
+			],
+			[
+				"angle_",
+				"angle_a"
+			],
+			[
+				"subb",
+				"subBranchToSkyRate"
+			],
+			[
+				"setpont",
+				"love.graphics.setPointSize"
+			],
+			[
+				"change",
+				"changeStep"
+			],
+			[
+				"setb",
+				"love.graphics.setBlendMode"
+			],
+			[
+				"bright",
+				"brightness"
+			],
+			[
+				"setp",
+				"love.graphics.setPointStyle"
+			],
+			[
+				"point",
+				"love.graphics.point"
+			],
+			[
+				"cir",
+				"love.graphics.circle"
+			],
+			[
+				"aura_",
+				"aura_inner"
+			],
+			[
+				"dra",
+				"love.graphics.draw"
+			],
+			[
+				"dr",
+				"love.graphics.draw"
+			],
+			[
+				"ci",
+				"love.graphics.circle"
+			],
+			[
+				"slime",
+				"slime_ball"
+			],
+			[
+				"setm",
+				"love.physics.setMeter"
+			],
+			[
+				"facotr",
+				"factorA"
+			],
+			[
+				"softb",
+				"softbodyTable"
+			],
+			[
+				"dista",
+				"love.physics.newDistanceJoint"
+			],
+			[
+				"newc",
+				"love.physics.newCircleShape"
+			],
+			[
+				"std_",
+				"std_item"
+			],
+			[
+				"player",
+				"player"
+			],
+			[
+				"key",
+				"love.keyboard.isDown"
+			],
+			[
+				"ope",
+				"love.system.openURL"
+			],
+			[
+				"os",
+				"os.execute	([command])"
+			],
+			[
+				"copy",
+				"copyto"
+			],
+			[
+				"newRight",
+				"newRightButton"
+			],
+			[
+				"leftselect",
+				"leftSelectPosY"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "main.lua",
+			"settings":
+			{
+				"buffer_size": 7686,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "conf.lua",
+			"settings":
+			{
+				"buffer_size": 1200,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "matcat.lua",
+			"settings":
+			{
+				"buffer_size": 2210,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Lua Love/LuaLove.sublime-build",
+					""
+				],
+				[
+					"Packages/Lua Love/LuaLove.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/Lua Love/LuaLove.sublime-build",
+					"Love2D"
+				],
+				[
+					"Packages/Lua Love/LuaLove.sublime-build",
+					"ldoc: File"
+				],
+				[
+					"Packages/Lua Love/LuaLove.sublime-build",
+					"ldoc: Project"
+				]
+			],
+			[
+				"Packages/Lua Love/LuaLove.sublime-build",
+				"Love2D"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Add Channel"
+			],
+			[
+				"",
+				"Build: Run"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 140.0,
+		"history":
+		[
+			"Love2D",
+			"love2d",
+			"build",
+			"Build",
+			"Love2D",
+			"Love2d",
+			"love2d",
+			"build"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Alexar/Desktop/gifload-master",
+		"/C/Users/Alexar/Desktop/gifload-master/example"
+	],
+	"file_history":
+	[
+		"/F/Love2D Project/box2d/libs/matcat.lua",
+		"/C/Users/Alexar/Desktop/lovegif/main.lua",
+		"/C/Users/Alexar/Desktop/lovegif/lovegif/giflib.lua",
+		"/F/Love2D Project/box2d/editor/editor.lua",
+		"/F/Love2D Project/box2d/modes/createMode.lua",
+		"/F/Love2D Project/box2d/editor/box2dhelper/draw.lua",
+		"/C/Users/Alexar/Desktop/giflib-master/giflib.lua",
+		"/C/Users/Alexar/Desktop/giflib-master/giflib_demo.lua",
+		"/C/Users/Alexar/Desktop/giflib-master/giflib_h.lua",
+		"/F/Love2D Project/box2d/conf.lua",
+		"/F/Love2D Project/box2d/libs/dkjson.lua",
+		"/F/Love2D Project/box2d/ui_cn/config.lua",
+		"/F/Love2D Project/loveTCG/cls/game/cardDataLoader.lua",
+		"/C/Users/Alexar/.ssh/id_rsa.pub",
+		"/F/Love2D Project/box2d/.git/config",
+		"/C/Users/Alexar/Desktop/GitHubLog.txt",
+		"/F/Love2D Project/box2d/editor/box2dhelper/collision.lua",
+		"/F/Love2D Project/box2d/modes/fixtureMode.lua",
+		"/F/Love2D Project/box2d/editor/box2dhelper/system.lua",
+		"/F/Love2D Project/box2d/editor/system.lua",
+		"/F/Love2D Project/box2d/updatelog.txt",
+		"/F/Love2D Project/box2d/editor/box2dhelper/data.lua",
+		"/F/Love2D Project/box2d/editor/box2dhelper/editor/box2dhelper/data.lua",
+		"/F/Love2D Project/box2d/libs/loveframes/libraries/utf8.lua",
+		"/F/Love2D Project/box2d/ui_cn/keyconfig.lua",
+		"/F/Love2D Project/box2d/editor/keyconf.lua",
+		"/C/Users/Alexar/AppData/Roaming/LOVE/APE_002/output.json",
+		"/C/Program Files (x86)/Sublime Text 3/Data/Packages/Pretty JSON/Pretty JSON.sublime-settings",
+		"/F/Love2D Project/box2d/libs/util.lua",
+		"/F/Love2D Project/FunnyFunky/lib/spine-love/dkjson.lua",
+		"/F/Love2D Project/box2d/libs/json/init.lua",
+		"/C/Users/Alexar/AppData/Local/Temp/Rar$DIa0.886/json.lua",
+		"/F/Love2D Project/box2d/main.lua",
+		"/F/Love2D Project/box2d/modes/libs/util.lua",
+		"/F/Love2D Project/box2d/modes/modes/createMode.lua",
+		"/C/Users/Alexar/Desktop/1/modes/createMode.lua",
+		"/C/Users/Alexar/Desktop/1/ui_cn/keyconfig.lua",
+		"/F/Love2D Project/box2d/ui_cn/system.lua",
+		"/F/Love2D Project/box2d/ui_cn/scene.lua",
+		"/F/Love2D Project/box2d/editor/units.lua",
+		"/F/Love2D Project/box2d/ui_cn/unit.lua",
+		"/F/Love2D Project/box2d/ui_cn/editMenu.lua",
+		"/F/Love2D Project/box2d/ui/unit.lua",
+		"/F/Love2D Project/box2d/ui/editMenu.lua",
+		"/F/Love2D Project/box2d/ui_cn/options.lua",
+		"/F/Love2D Project/box2d/editor/box2dhelper/modes/createMode.lua",
+		"/C/Users/Alexar/AppData/Roaming/LOVE/APE_002/appData",
+		"/C/Users/Alexar/Desktop/test.txt",
+		"/F/Love2D Project/box2d/editor/camera.lua",
+		"/F/Love2D Project/box2d/editor/box2dhelper/init.lua",
+		"/F/Love2D Project/box2d/editor/log.lua",
+		"/F/Love2D Project/box2d/ui_cn/fileMenu.lua",
+		"/F/Love2D Project/box2d/ui_cn/layoutMenu.lua",
+		"/F/Love2D Project/box2d/modes/shapeMode.lua",
+		"/F/Love2D Project/box2d/editor/box2dhelper/script.lua",
+		"/F/Love2D Project/box2d/ui_cn/property.lua",
+		"/F/Love2D Project/box2d/libs/loveframes/skins/Blue/skin.lua",
+		"/F/Love2D Project/box2d/libs/loveframes/objects/textinput.lua",
+		"/F/Love2D Project/box2d/editor/script_file.lua",
+		"/F/Love2D Project/box2d/ui_cn/about.lua",
+		"/F/Love2D Project/box2d/editor/box2dhelper/patch.lua",
+		"/F/Love2D Project/box2d/lisence",
+		"/C/Users/Alexar/Desktop/game_compile/conf.lua",
+		"/F/Love2D Project/box2d/editor/helpText.lua",
+		"/F/Love2D Project/box2d/libs/loveframes/objects/text.lua",
+		"/F/Love2D Project/box2d/ui_cn/donate.lua",
+		"/F/Love2D Project/box2d/libs/loveframes/init.lua",
+		"/F/Love2D Project/box2d/ui_cn/help.lua",
+		"/F/Love2D Project/box2d/ui_cn/tutorial.lua",
+		"/F/Love2D Project/box2d/libs/loveframes/objects/internal/linenumberspanel.lua",
+		"/F/Love2D Project/box2d/editor/interface.lua",
+		"/C/Users/Alexar/Desktop/crass-0.4.14.0-final/support_list_zip.txt",
+		"/C/Users/Alexar/AppData/Local/Temp/Rar$DIa0.978/下载必看.txt",
+		"/F/Love2D Project/box2d/modes/testMode.lua",
+		"/F/Love2D Project/box2d/editor/selector.lua",
+		"/F/Love2D Project/box2d/editor/tutorialText.lua",
+		"/F/Love2D Project/box2d/libs/metaball.lua",
+		"/C/Users/Alexar/Desktop/metaball/main.lua",
+		"/C/Users/Alexar/AppData/Local/Temp/Rar$DIa0.080/main.lua",
+		"/C/Users/Alexar/AppData/Local/Temp/Rar$DIa0.754/main.lua",
+		"/F/Love2D Project/box2d/ui_cn/build.lua",
+		"/F/Love2D Project/box2d/ui/system.lua",
+		"/F/Love2D Project/box2d/ui/language.lua",
+		"/F/Love2D Project/box2d/libs/i18n.lua",
+		"/C/Users/Alexar/Desktop/减免资料/doc.txt",
+		"/F/Love2D Project/box2d/ui/property.lua",
+		"/C/Users/Alexar/Desktop/game/main.lua",
+		"/C/Users/Alexar/AppData/Local/Temp/Rar$DIa0.291/2d-polygon-area.js",
+		"/F/Love2D Project/box2d/libs/polybool.lua",
+		"/F/Love2D Project/box2d/libs/loveframes/objects/frame.lua",
+		"/F/Love2D Project/box2d/editor/box2dhelper/libs/polybool.lua",
+		"/F/Love2D Project/box2d/editor/box2dhelper/reaction.lua",
+		"/C/Users/Alexar/AppData/Roaming/LOVE/ABE/tutorial/scenes/test.scene",
+		"/F/Love2D Project/box2d/modes/jointMode.lua",
+		"/F/Love2D Project/polygon/main.lua",
+		"/C/Users/Alexar/AppData/Roaming/LOVE/ABE/tutorial/scenes/motor.scene",
+		"/F/Love2D Project/box2d/ui/libs/util.lua",
+		"/F/Love2D Project/lovengine/engine/util/util.lua",
+		"/F/Love2D Project/loveFrameVisualEditor/other/examples/textinput.lua",
+		"/F/Love2D Project/box2d/editor/box2dhelper/script_file.lua",
+		"/F/Love2D Project/lovengine/engine/component/script.lua",
+		"/F/Love2D Project/box2d/todo",
+		"/F/Love2D Project/box2d/issue",
+		"/C/Users/Alexar/Desktop/clipper-master/clipper_demo.lua",
+		"/C/Users/Alexar/Desktop/clipper-master/clipper.lua",
+		"/F/Love2D Project/box2d/libs/loveframes/objects/internal/multichoice/multichoicelist.lua",
+		"/F/Love2D Project/box2d/libs/loveframes/objects/multichoice.lua",
+		"/F/Love2D Project/box2d/libs/loveframes/objects/base.lua",
+		"/F/Love2D Project/box2d/modes/bodyMode.lua",
+		"/F/Love2D Project/box2d/libs/loveframes/objects/internal/multichoice/multichoicerow.lua",
+		"/F/Love2D Project/box2d/libs/loveframes/changelog.txt",
+		"/F/Love2D Project/box2d/ui/scene.lua",
+		"/F/Love2D Project/space war/obj/ships/base.lua",
+		"/F/Love2D Project/box2d/ui/keyconfig.lua",
+		"/F/Love2D Project/box2d/libs/matrix.txt",
+		"/F/Love2D Project/box2d/matrix.txt",
+		"/F/Love2D Project/space war/obj/weapons/laser.lua",
+		"/C/Users/Alexar/AppData/Local/Temp/Rar$DIa0.661/main.lua",
+		"/C/Users/Alexar/AppData/Local/Temp/Rar$DIa0.422/anchor.lua",
+		"/F/Love2D Project/box2d/ui/help.lua",
+		"/F/Love2D Project/box2d/modes/modes/jointMode.lua",
+		"/F/Love2D Project/box2d/ui/donate.lua",
+		"/C/Users/Alexar/AppData/Roaming/LOVE/ABE/help.txt",
+		"/F/Love2D Project/box2d/ui/fileMenu.lua",
+		"/C/Users/Alexar/AppData/Roaming/LOVE/ABE/tmp.txt",
+		"/F/Love2D Project/box2d/ui/pickColor.lua",
+		"/F/Love2D Project/box2d/ui/viewMenu.lua",
+		"/F/Love2D Project/box2d/ui/build.lua"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"5",
+			"usage",
+			"explosion",
+			"destroyonHit",
+			"createworld",
+			"\\",
+			"encode2",
+			"valtype",
+			"type(",
+			"support",
+			"error",
+			"addpair",
+			"strfind",
+			"combo",
+			"unvisible",
+			"textures",
+			"getrot",
+			"type",
+			"self.units",
+			"editor.units",
+			"newfile",
+			"save",
+			"file",
+			"appdata",
+			"return",
+			"file",
+			"helper.draw",
+			"helper",
+			"helper.world",
+			"helper.editor",
+			"print",
+			"lost",
+			"startpos",
+			"self.indicatornum = indicatornum",
+			"selectbefor",
+			"runkey",
+			"istext",
+			"moveindicator",
+			"gettextc",
+			"delay",
+			"todo",
+			"add(",
+			"insert",
+			"getbodies",
+			"\" \"",
+			"gsub",
+			"　=　",
+			"local　",
+			"　",
+			" ",
+			"settext",
+			"getheight",
+			"font",
+			"setStencil",
+			"drawtext",
+			"drawfunc",
+			"drawtext",
+			"setprop",
+			"change property",
+			"selector",
+			"toggle",
+			"help",
+			"menuop",
+			"ui/",
+			"button_text_font",
+			"button",
+			"breakup",
+			"dock",
+			"lal",
+			"print(\"test\")",
+			"test",
+			"font",
+			"print",
+			"getuserdata",
+			"script",
+			"interacts",
+			"helper.world",
+			"postC",
+			"getuserdata",
+			"visible",
+			"COMBO",
+			"polygon",
+			"save",
+			"local",
+			"down",
+			"downobject",
+			"hoverobject =",
+			"collide",
+			"self.collide",
+			"hover",
+			"canremove",
+			"table",
+			"setprop",
+			"onenter",
+			"%0.",
+			"world",
+			"settext(tostring",
+			"textinput",
+			"setmater",
+			"save",
+			"todo",
+			"getstatus",
+			"getstate",
+			"fire",
+			"get",
+			"gear",
+			"print",
+			"setLinearVelocity",
+			"updatedata",
+			"savescene",
+			"velocity",
+			"anticount",
+			"explosion",
+			"joint",
+			"onenter",
+			"inputobject",
+			"hover",
+			"setstatus",
+			"print",
+			"clamp",
+			"mouse",
+			"clamp",
+			"setmater",
+			"f3",
+			"helper",
+			"antic",
+			"单位",
+			"field"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"invisible",
+			"self.indicatornum = startPos",
+			" =  ",
+			"local ",
+			" ",
+			"　",
+			"tutor",
+			"ui_cn/",
+			"getProperty",
+			"部件",
+			"colorPicker",
+			"color",
+			"advanced",
+			"--setUserData",
+			"editor.action",
+			"self:hide()",
+			"scene",
+			"edit",
+			"world",
+			"unit",
+			"system",
+			"data.",
+			"tType",
+			"property",
+			"joint",
+			"history",
+			"help",
+			"build",
+			"about",
+			"helper.system.todo",
+			"system",
+			"helper.system.update",
+			"helper.system.add",
+			"reactMode",
+			"collMode",
+			"dataMode",
+			"drawMode",
+			"mod",
+			"data",
+			"verts",
+			"self.state",
+			"shapeMode",
+			"bodyMode",
+			"\"test\"",
+			"\"shape\"",
+			"\"joint\"",
+			"\"fixture\"",
+			"\"create\"",
+			"\"body\"",
+			"b:SetSize(75,10)",
+			"b:SetSize(70,10)",
+			"b:SetSize(80,10)",
+			"jMode",
+			"editor.action",
+			"units",
+			"test",
+			"system",
+			"editor.action",
+			"createMode",
+			"editor.action",
+			"edit",
+			"selector",
+			"editor.mouseY",
+			"editor.mouseX",
+			"editor",
+			"creator",
+			"Anchors",
+			"group[joint.Bodies[2]].body",
+			"group[joint.Bodies[1]].body",
+			"self.inEditMode",
+			"dragSelecting",
+			"dragMoving",
+			"drag",
+			"obj",
+			"j",
+			"a",
+			"dist",
+			"flower",
+			"weatherIndex",
+			"game",
+			"snow",
+			"moon",
+			"stageSize/2",
+			"stageSize",
+			"fg",
+			"draw",
+			"init",
+			"outer",
+			"polygon",
+			"rect",
+			":getGrid",
+			"self.world",
+			"left",
+			"type=",
+			"flag",
+			"dual",
+			"accelerate",
+			"self:getLast",
+			"drift",
+			"getTarget(obj)",
+			"pursue",
+			"rnd",
+			"std_speed",
+			"gamestate",
+			"shell[].",
+			"spark",
+			"back",
+			"3000",
+			"50",
+			"",
+			"50",
+			"",
+			"ky",
+			"kx",
+			"self.last",
+			"setAngle",
+			"Polygon",
+			"right",
+			"left",
+			"fixture",
+			"setRestitution",
+			"right",
+			"left2",
+			"p",
+			"right",
+			"*4",
+			"*8",
+			"self."
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "main.lua",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7686,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								806,
+								806
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "UTF-8",
+							"syntax": "Packages/Lua Love/LuaLove.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": -0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "conf.lua",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 1200,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1061,
+								1061
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "UTF-8",
+							"syntax": "Packages/Lua Love/LuaLove.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 414.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "matcat.lua",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2210,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2068,
+								2068
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/Lua Love/LuaLove.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1725.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 167.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Lua Love/LuaLove.sublime-build",
+	"project": "1.sublime-project",
+	"replace":
+	{
+		"height": 72.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 282.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
